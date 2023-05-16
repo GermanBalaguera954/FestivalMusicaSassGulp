@@ -1,0 +1,18 @@
+{
+  "name": "festivalmusica_german",
+  "version": "1.0.0",
+  "description": "proyecto con Gulp SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "German Balaguera",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
